@@ -1,29 +1,52 @@
-# 💫 About Me:
-Final-year Computer Science student specializing in Machine Learning and Data Pipelines. Experience engineered a customer segmentation model identifying $22.4M revenue uplift potential for a Capstone project. Proficient in Python (Pandas, Scikit-Learn), MLOps workflows, and Linux environments. Seeking Junior Data Analyst or ML Engineer roles to leverage strong analytical skills and backend discipline.
+# 🛡️ AI Security & Infrastructure Engineer
 
+> **Securing the Intersection of MLOps and Adversarial Robustness**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/s4intdhoom) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@afrdhdhoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afr1dho) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:attridho@gmail.com) 
+I engineer the immune systems for AI applications. While the industry optimizes for generative capabilities, I optimize for **governance, latency, and attack surface reduction**. My work ensures that ML pipelines survive hostile environments and production realities.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vadhh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vadhh&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vadhh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vadhh&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+### 🧠 Core Philosophy
+* **Defense in Depth:** AI models are software; they require the same hardening as any critical infrastructure.
+* **Observability is Security:** You cannot secure what you cannot monitor. I build pipelines that scream when they drift.
+* **Pragmatism > Hype:** I focus on reproducible infrastructure and deterministic outcomes over "magic" black boxes.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vadhh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Engineering Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Infrastructure & Containerization** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **MLOps & Pipelines** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
+| **Data Engineering** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) |
+| **Security & Scripting** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) ![Network Security](https://img.shields.io/badge/NetSec-FF0000?style=flat-square&logo=checkmarx&logoColor=white) |
+
+## 🔬 Key Competencies
+* **Adversarial Defense:** Mitigating prompt injection, data poisoning, and model inversion attacks.
+* **System Hardening:** Securing Linux environments for high-throughput inference (WSL/Ubuntu).
+* **Traffic Analysis:** Monitoring real-time data flow for intrusion detection signatures.
+
+---
+
+## 📊 Activity 
 
 <div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vadhh&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" alt="Top Contributions" />
+</div>
+
+---
+
+## 📡 Uplink
+<div align="center">
+  
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/s4intdhoom)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afr1dho)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attridho@gmail.com)
+
+  <br/><br/>
+  
   <a href="https://stdhoom.neocities.org">
-    <img src="https://img.shields.io/badge/ENTER_PORTFOLIO-000080?style=for-the-badge&logo=windows&logoColor=white" alt="Enter Portfolio" />
+    <img src="https://img.shields.io/badge/ACCESS_TERMINAL-000080?style=for-the-badge&logo=gnu-terminal&logoColor=white" alt="Enter Portfolio" />
   </a>
   <br/>
-  <sub>Accessed via Netscape Navigator 4.0</sub>
+  <sub>System Status: 🟢 Online | Latency: 12ms | Encryption: AES-256</sub>
 </div>
