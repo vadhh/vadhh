@@ -44,7 +44,7 @@ I engineer the immune systems for AI applications. While the industry optimizes 
 
   <br/><br/>
   
-  <a href="https://stdhoom.neocities.org">
+  <a href="https://stardhoom.vercel.app">
     <img src="https://img.shields.io/badge/ACCESS_TERMINAL-000080?style=for-the-badge&logo=gnu-terminal&logoColor=white" alt="Enter Portfolio" />
   </a>
   <br/>
