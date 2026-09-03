@@ -15,19 +15,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-> *"Doom" is not a name. It's a warning.*
-
-</div>
-
----
-
-
-## `// THE FACES OF DOOM`
-
 <div align="center">
 
 <!-- MF DOOM GIF -->
@@ -52,67 +39,17 @@
 ║  DIRECTIVE II  → Observability IS Security.                      ║
 ║  DIRECTIVE III → Pragmatism over hype. Outcomes over optics.     ║
 ╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `// TECH MANIFEST`
-
-```
- ┌──────────────────────────────────────────────────────────────┐
- │  LAYER              TOOLS                                    │
- ├──────────────────────────────────────────────────────────────┤
- │  INFRA         →    Docker  ·  Linux  ·  Bash  ·  WSL2       │
- │  MLOPS         →    TensorFlow  ·  MLflow  ·  Git            │
- │  DATA          →    Python  ·  Pandas  ·  MySQL  ·  Streamlit│
- │  AI/SECURITY   →    Llama 3  ·  Qdrant  ·  OWASP  ·  NetSec  │
- └──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  INFRA         →    Docker  ·  Linux  ·  Bash  ·  WSL2       │
+│  MLOPS         →    TensorFlow  ·  MLflow  ·  Git            │
+│  DATA          →    Python  ·  Pandas  ·  MySQL  ·  Streamlit│
+│  AI/SECURITY   →    Llama 3  ·  Qdrant  ·  OWASP  ·  NetSec  │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 
 ---
 
-
-## `// ACTIVE OPERATIONS`
-
-```
- ◈ minifw-ai ────────────────────────────────────── [PUBLIC]
-   AI behavioral firewall on Linux gateway hardware.
-   Detects novel threats via real-time traffic modeling.
-
- ◈ ritapi-v-sentinel ─────────────────────────────── [PUBLIC]
-   Network security enforcement + Django ops dashboard.
-   Live AI firewall for regulatory compliance environments.
-
- ◈ ids-inference-microservice ────────────────────── [PUBLIC]
-   Production ML microservice. Real-time network IDS.
-
- ◈ vaultsearch ───────────────────────────────────── [PUBLIC]
-   Private local RAG. Llama 3 + Qdrant. Zero exfiltration.
-
- ◈ pulsestream ───────────────────────────────────── [PUBLIC]
-   Event-driven financial intelligence platform.
-```
-
----
-
-## `// SIGNAL METRICS`
-
-<div align="center">
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=vadhh&show_icons=true&hide_border=true&bg_color=0c0c0c&title_color=FFB000&icon_color=FFB000&text_color=cc9900&count_private=true" />
-&nbsp;
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadhh&layout=compact&hide_border=true&bg_color=0c0c0c&title_color=FFB000&text_color=cc9900" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vadhh&hide_border=true&background=0c0c0c&stroke=FFB000&ring=FFB000&fire=FF6B00&currStreakLabel=FFB000&sideLabels=cc9900&dates=886600" />
-
-</div>
-
----
-
-## `// UPLINK`
 
 <div align="center">
   
@@ -127,18 +64,12 @@
 <sub>System Status: 🟢 Online | Latency: 12ms | Encryption: AES-256</sub>
 
 
-<br/>
+  <br/>
+  <br/>
+  <br/>
+ 
 
 ```
- ╔══════════════════════════════════════════════════════════╗
- ║                                                          ║
- ║   "Doom was here. The logs confirm it.                   ║
- ║    The packets feared it. The model survived it."        ║
- ║                                                          ║
- ║                            — DHOOM, vadhh                ║
- ║                                                          ║
- ╚══════════════════════════════════════════════════════════╝
-
  > session terminated.  mask off.  █
 ```
 
